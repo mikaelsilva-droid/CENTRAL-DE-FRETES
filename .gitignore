@@ -1,0 +1,9 @@
+# Banco de dados local (para não expor dados reais/locais)
+fretes_local.db
+
+# Ficheiros e pastas temporárias do Python
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
